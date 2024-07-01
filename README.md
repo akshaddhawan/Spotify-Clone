@@ -4,7 +4,6 @@ Sure! Here is a personalized README file for your "Spotify 2.0 Clone Music App" 
 
 # Spotify 2.0 Clone Music App
 
-![Spotify Clone](https://i.ibb.co/mFh2kGZ/Thumbnail-2.png)
 
 Welcome to the Spotify 2.0 Clone Music App! This project is a modern, full-featured music streaming application built using the latest web technologies including React 18, Tailwind CSS, Redux, and the Shazam API. Whether you're a developer looking to enhance your skills or a music enthusiast wanting to explore a new app, this project is perfect for you.
 
